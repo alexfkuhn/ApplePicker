@@ -1,7 +1,7 @@
 # ApplePicker
 
 ## Project Overview
-Apple picked is a simple physics game developed in Unity with the C# language. Designed and codedas a homework for my CSC476 Game Design class,
+ApplePicker is a simple physics game developed in Unity with the C# language. Designed and codedas a homework for my CSC476 Game Design class,
 the objective of the game is to catch apples which are falling from a moving tree with your baskets. You get three baskets to start, miss an apple and you lose a basket.
 As the game goes on, increasingly fast and more difficult to catch apples drop.
 
