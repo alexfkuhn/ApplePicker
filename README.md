@@ -147,5 +147,5 @@ public class HighScore : MonoBehaviour
     }
 ```
 
-*Interested in playing the game? Try it out on the soon to be deprecated UnityConnect WebGL player here: *
+*Interested in playing the game? Try it out on the soon to be deprecated UnityConnect WebGL player here: https://play.unity.com/mg/other/untitled-31570*
 
