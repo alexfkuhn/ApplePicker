@@ -30,3 +30,6 @@ Enhanced replayability was the intention of both of these features, along with l
 
 *High Score*
 
+
+*Interested in playing the game? Try it out on the soon to be deprecated UnityConnect WebGL player here: *
+
