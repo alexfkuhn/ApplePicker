@@ -8,17 +8,19 @@ As the game goes on, increasingly fast and more difficult to catch apples drop.
 ## Screen Shots
 
 *Home Screen*
-IMG LINK
-
-*Initial Game*
+![Home Screen](./ApplePickerImages/startscreen.png)
 
 *Easy Apple*
+![Easy Apple](./ApplePickerImages/redapple.gif)
 
 *Medium Apple*
+![Medum Apple](./ApplePickerImages/greenapple.gif)
 
 *Hard Apple*
+![Hard Apple](./ApplePickerImages/yellowapple.gif)
 
 *Game Over*
+![Game Over](./ApplePickerImages/gameover.png)
 
 ## Important Features and Code
 
